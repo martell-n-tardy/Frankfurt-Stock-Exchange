@@ -1,5 +1,5 @@
 # Frankfurt-Stock-Exchange
-In this mini project equities data from the Frankfurt Stock Exchange (FSE) the stock prices of a company called Carl Zeiss Meditec are analyzed in order to determine stock prices and trading volumes.
+In this mini project the stock prices of a company called Carl Zeiss Meditec are analyzed in order to determine stock prices and trading volumes using equities data from the Frankfurt Stock Exchange (FSE).
 
 ## Tools and Editors
 * Detailed Quandl API instructions here: https://docs.quandl.com/docs/time-series
